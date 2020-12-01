@@ -1,0 +1,4 @@
+com/yisheng/zzu/ZzuApplicationTests.class
+com/yisheng/zzu/mapper/TestUserMapper.class
+com/yisheng/zzu/controller/TestUserController.class
+com/yisheng/zzu/service/TestUserService.class
