@@ -5,3 +5,4 @@ a. jdbc用了8.x版本，如果用8以下的版本在application.yaml下修改
 b. mysql的账号密码都在application.yaml下修改
 c. jdk用的是1.8
 
+git

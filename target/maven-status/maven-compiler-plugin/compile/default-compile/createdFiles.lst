@@ -1,5 +1,6 @@
 com/yisheng/zzu/controller/UserController.class
 com/yisheng/zzu/mapper/UserMapper.class
+com/yisheng/zzu/controller/WeChatController.class
 com/yisheng/zzu/ZzuApplication.class
 com/yisheng/zzu/pojo/User.class
 com/yisheng/zzu/service/UserService.class
